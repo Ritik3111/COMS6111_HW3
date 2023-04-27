@@ -1,0 +1,5 @@
+# Required packages
+pandas
+itertools
+sys
+sodapy
